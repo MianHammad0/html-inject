@@ -13,7 +13,7 @@
 ## Installation
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/HTML-INJECTOR.git
+git clone https://github.com/MianHammad0/HTML-INJECTOR.git
 
 ```
 ```bash
