@@ -17,7 +17,7 @@ git clone https://github.com/MianHammad0/html-inject.git
 
 ```
 ```bash
-cd HTML-INJECTOR
+cd html-inject
 ```
 
 ### 2. Install Dependencies
