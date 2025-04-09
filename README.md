@@ -32,19 +32,9 @@ pip3 install -r requirements.txt
 python3 HTML_Injection.py --url "http://example.com" -p html-injection-payload.txt -t 20 --crawl
 ```
 
-## Example Payloads
-Sample payloads to test for HTML injection:
-```
-<body><h1>HTML html</h1></body>
-Html<br>line breaks<br>injection
-<button type="button">Click Me!</button>
-<canvas id="myCanvas">draw htmli</canvas>
-<caption>Html</caption>
-```
-
 ## Notes
 - Use this tool for ethical security testing only.
-- Ensure you have permission before testing any website.
+
 
 ## Author
 Developed by **Mian Hammad** 🚀
