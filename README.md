@@ -47,5 +47,5 @@ Html<br>line breaks<br>injection
 This project is licensed under the MIT License.
 
 ## Author
-Developed by **Varun Sulakhe** 🚀
+Developed by **Mian Hammad** 🚀
 
