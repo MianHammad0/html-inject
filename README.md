@@ -43,9 +43,6 @@ Html<br>line breaks<br>injection
 - Use this tool for ethical security testing only.
 - Ensure you have permission before testing any website.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 Developed by **Mian Hammad** 🚀
 
